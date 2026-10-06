@@ -1,0 +1,3 @@
+Student: Karl
+Average: 88.75
+Passed: true
